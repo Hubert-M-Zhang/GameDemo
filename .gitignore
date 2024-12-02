@@ -1,0 +1,6 @@
+Library
+/GameDemo/.vsconfig
+*.csproj
+*.sln
+/GameDemo/Temp
+/GameDemo/Logs
